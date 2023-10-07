@@ -2,21 +2,7 @@
 
 Welcome to our Hacktoberfest 2023 project! We're excited to have you contribute. This project aims to [briefly describe the goal or purpose of the project].
 
-## How to Contribute
-
-Follow these steps to contribute to the project:
-
-1. **Fork the Repository:**
-
-   Click on the "Fork" button at the top-right corner of this repository to create your copy.
-
-2. **Clone Your Fork:**
-
-   Clone your fork to your local machine. Replace `[your-username]` with your GitHub username.
-
-   ```bash
-   git clone https://github.com/[your-username]/hacktoberfest-2023.git
-
+#hacktoberfest
 
 
 # Cat-Dog Classification Project
